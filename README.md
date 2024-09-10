@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d753843f-c39f-4557-80e7-95e25d6b865e)![image](https://github.com/user-attachments/assets/10015095-4d75-4326-ba7f-2c9f645c8277)# Document Intelligence Project
 
 This project demonstrates how to use Azure's Form Recognizer service to extract information from documents using the JavaScript SDK. It includes an example of analyzing a document from a URL and retrieving structured data.
 
