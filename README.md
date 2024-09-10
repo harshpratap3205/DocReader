@@ -16,11 +16,22 @@ Before you begin, ensure you have the following:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/document-intelligence-project.git
-cd document-intelligence-project
-
 ## Install Dependencies
 Enure you have Node.js installed, then install the project dependencies:
 ```bash
 npm install
+```
+## Set Up  Variables
+
+const key = "c03442fdd1604bee91aa820d513e3f14";
+const endpoint = "https://docreaderproject.cognitiveservices.azure.com/";
+
+``
+## install dependencies @azure/ai-form-recognizer
+npm i @azure/ai-form-recognizer
+
+## run file
+node main.js
+
+
+
